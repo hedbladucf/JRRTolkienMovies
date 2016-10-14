@@ -1,0 +1,56 @@
+{
+  "movies": [{
+    "title" : "The Lord of the Rings: The Fellowship of the Ring",
+    "movie_number" : "1",
+    "main_characters" : ["Gandalf", "Frodo", "Aragorn", "Legolas", "Arwen", "Gimli", "Boromir", "Gollum"],
+    "description" : "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins, who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.",
+    "poster" : "lotr_1_poster.jpg",
+    "hero_image" : "lotr_1_hero.jpg"
+  },
+
+  {
+    "title" : " The Lord of the Rings: The Two Towers",
+    "movie_number" : "2",
+    "main_characters" : ["Gandalf", "Frodo", "Legolas", "Aragorn", "Saruman", "Gimli", "Théoden", "Treebeard"],
+    "description" : "The sequel follows the continuing quest of Frodo and the Fellowship to destroy the One Ring. Frodo and Sam discover they are being followed by the mysterious Gollum. Aragorn, the Elf archer Legolas, and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell.",
+    "poster" : "lotr_2_poster.jpg",
+    "hero_image" : "lotr_2_hero.jpg"
+  },
+
+  {
+    "title" : "The Lord of the Rings: The Return of the King",
+    "movie_number" : "3",
+    "main_characters" : ["Aragorn", "Frodo", "Sam", "Gollum", "Legolas", "Gimli", "Gandalf", "Théoden"],
+    "description" : "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the `one ring', while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+    "poster" : "lotr_3_poster.jpg",
+    "hero_image" : "lotr_3_hero.jpg"
+  },
+
+  {
+    "title" : "The Hobbit: An Unexpected Journey",
+    "movie_number" : "4",
+    "main_characters" : ["Gandalf", "Bilbo", "Thorin", "Balin", "Dwalin", "Gollum", "Elrond", "Azog"],
+    "description" : "Bilbo Baggins lives a simple life with his fellow hobbits in the shire, until the wizard Gandalf arrives and convinces him to join a group of dwarves on a quest to reclaim the kingdom of Erebor. The journey takes Bilbo on a path through treacherous lands swarming with orcs, goblins and other dangers, not the least of which is an encounter with Gollum and a simple gold ring that is tied to the fate of Middle Earth in ways Bilbo cannot even fathom.",
+    "poster" : "hobbit_1_poster.jpg",
+    "hero_image" : "hobbit_1_hero.jpg"
+  },
+
+  {
+    "title" : "The Hobbit: The Desolation of Smaug",
+    "movie_number" : "5",
+    "main_characters" : ["Gandalf", "Bilbo", "Thorin", "Balin", "Beorn", "Legolas", "Tauriel", "Smaug", "Galadriel"],
+    "description" : "The thirteen dwarves commanded by Thorin, the burglar Bilbo Baggins and the wizard Gandalf travel to Lonely Mountain to steal the Arkenstone from the dragon Smaug to join the dwarves. During their dangerous journey, they need to fight against giant spiders and Orcs and they are captured but flee from the Elves.",
+    "poster" : "hobbit_2_poster.jpg",
+    "hero_image" : "hobbit_2_hero.jpg"
+  },
+
+  {
+    "title" : "The Hobbit: The Battle of the Five Armies",
+    "movie_number" : "6",
+    "main_characters" : ["Gandalf", "Bilbo", "Thorin", "Balin", "Bard", "Smaug", "Bolg", "Legolas"],
+    "description" : "Having reclaimed Erebor and vast treasure from the dragon Smaug, Thorin Oakenshield sacrifices friendship and honor in seeking the Arkenstone, despite Smaug's fiery wrath and desperate attempts by the Hobbit Bilbo (Martin Freeman) to make him see reason. Meanwhile, Sauron sends legions of Orcs in a sneak attack upon the Lonely Mountain. As the fate of Middle Earth hangs in the balance, the races of Men, Elves and Dwarves must decide whether to unite and prevail -- or all die.",
+    "poster" : "hobbit_3_poster.jpg",
+    "hero_image" : "hobbit_3_hero.jpg"
+  }]
+
+}
